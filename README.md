@@ -34,7 +34,7 @@ Used transfer learning with pretrained architectures for better accuracy and eff
 
 Applied image augmentation to improve generalization and reduce overfitting.
 
-Achieved 96% accuracy with ResNet50, proving the strength of deep learning in medical image analysis.
+Achieved 96% accuracy with VGG16, proving the strength of deep learning in medical image analysis.
 
 # Final Results
 
