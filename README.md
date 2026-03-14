@@ -21,7 +21,7 @@ Testing – Evaluated the final models on unseen test data to measure generaliza
 
 Evaluation Metrics – Assessed models using accuracy, precision, recall, F1-score, and confusion matrix.
 
-Results – Compared models, with ResNet50 achieving the highest performance at 96% accuracy in classifying skin cancer types.
+Results – Compared models, with VGG16 achieving the highest performance at 96% accuracy in classifying skin cancer types.
 
 
 # Features of the Project
